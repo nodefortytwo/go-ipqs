@@ -1,7 +1,7 @@
-package GoIPQSDBReader;
+package ipqs
 
 type Column struct {
-	Name string
-	Type *RecordType
+	Name     string
+	Type     *RecordType
 	RawValue string
 }

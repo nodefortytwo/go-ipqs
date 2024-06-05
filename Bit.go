@@ -1,3 +1,3 @@
-package GoIPQSDBReader;
+package ipqs
 
-type Bit uint8;
+type Bit uint8

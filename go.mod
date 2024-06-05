@@ -1,3 +1,3 @@
-module github.com/IPQualityScore/GoIPQSDBReader
+module github.com/nodefortytwo/go-ipqs
 
 go 1.14
